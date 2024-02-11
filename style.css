@@ -1,0 +1,40 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 25px;
+    margin: 0px;
+    width: 100%;
+}
+#start, #number_of_objects, #status
+{
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color:rgb(120, 120, 120) ;
+    line-height: 3;
+    background-color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px red;
+}
+
+#input
+{
+    width: 25%;
+}
